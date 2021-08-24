@@ -1,0 +1,28 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  width: 500px;
+}
+
+#avatar {
+  width: 70px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.btn-primary {
+  margin-bottom: 50px;
+}
+
+.btn-primary:hover {
+  background-color: transparent;
+  font-weight: bold;
+  color: black;
+}
+
+#Post {
+  width: 100%;
+}
